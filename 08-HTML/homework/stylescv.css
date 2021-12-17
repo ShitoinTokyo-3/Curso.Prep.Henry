@@ -1,0 +1,56 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    display: -webkit-flex;
+    display: flex;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+.primerDiv{
+    width: 40%;
+
+}
+.primerDiv__img{
+    
+    max-width: 50%;
+    margin-left: 30%;
+   
+}
+.primerDiv__sec{
+    padding: 2% 15%;
+    text-align: left;
+    font-family: Microsoft JhengHei Light;
+}
+.segundoDiv{
+    -webkit-flex : 1;
+    flex : 1;
+    background-color: rgb(216, 216, 216);
+}
+.segundoDiv__sec{
+    padding: 2% 15%;
+    text-align: left;
+    font-family: Microsoft JhengHei Light;
+}
+.segundoDiv h1{
+    text-align: center;
+    font-size: 3em;
+    font-family: Calibri;
+    line-height: 0.8;
+}
+#nombre{
+    font-size: 2em;
+    text-align: center;
+    display: block;
+    margin-top: -7%;
+    font-family: Calibri;
+    
+}
+.segundoDiv h4{
+    text-align: center;
+    font-family: Verdana;
+
+}
