@@ -3,7 +3,7 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-body{
+.container{
     display: -webkit-flex;
     display: flex;
     margin-left: 400px;
@@ -37,7 +37,7 @@ body{
 }
 .segundoDiv h1{
     text-align: center;
-    font-size: 3em;
+    font-size: 4em;
     font-family: Calibri;
     line-height: 0.8;
 }
@@ -45,7 +45,7 @@ body{
     font-size: 2em;
     text-align: center;
     display: block;
-    margin-top: -7%;
+    margin-top: -12.5%;
     font-family: Calibri;
     
 }
